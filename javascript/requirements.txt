@@ -1,0 +1,7 @@
+flask
+pylint
+pytest
+black
+pytest-cov
+requests
+uvicorn
